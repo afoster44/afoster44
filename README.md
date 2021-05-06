@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Alex Foster, and I am currently a full stack graduate from Boise Codeworks (currently seeking work as a full stack developer utilizing both Javascript and C#). I am thrilled to be a part of the adventure coding provides. Besides programming I love to spend time with my wife, and we have a child on the way! We also like to be outside including snowboarding, fishing, hiking, camping, dirtbiking, snowmachining etc...the list goes on haha. Thank you for visiting my page! Feel free to check out my pinned repositories. I very much enjoy programming so far with a Vue front end built with a MongoDB/Node back end! Also please feel free to discover my landing page @ https://afoster44.github.io
+My name is Alex Foster, and I am a full stack graduate from Boise Codeworks (currently seeking work as a full stack developer utilizing both Javascript and C#). I am thrilled to be a part of the adventure coding provides. Besides programming I love to spend time with my wife, and we have a child on the way! We also like to be outside including snowboarding, fishing, hiking, camping, dirtbiking, snowmachining etc...the list goes on haha. Thank you for visiting my page! Feel free to check out my pinned repositories. I very much enjoy programming so far with a Vue front end built with a MongoDB/Node back end! Also please feel free to discover my landing page @ https://afoster44.github.io
 <!--
 **afoster44/afoster44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
